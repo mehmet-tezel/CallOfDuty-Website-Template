@@ -1,0 +1,23 @@
+.tempMain {
+    color: white;
+    font-size: 45px;
+    font-family: ModernWarfare;
+    position: absolute;
+    top: 12%;
+    left: 840px;
+    border-width: 3px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: rgb(222, 191, 100);
+    padding: 5px;
+}
+
+.p1 {
+    font-family: Montserrat;
+    font-size: 40px;
+    position: absolute;
+    margin: auto;
+    top: 30%;
+    left: 5%;
+    width: 480px;
+}

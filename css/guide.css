@@ -1,0 +1,13 @@
+.tempMain {
+    color: white;
+    font-size: 45px;
+    font-family: ModernWarfare;
+    position: absolute;
+    top: 12%;
+    left: 850px;
+    border-width: 3px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: rgb(222, 191, 100);
+    padding: 5px;
+}
